@@ -20,5 +20,5 @@ which will run the script every 15 minutes on the hour.
 When run, corresponding inputs will be automatically created and updated in emoncms. 
 
 Forum help - http://openenergymonitor.org/
----------------------------------------
+
 Scrip originally written by Martin Harizanov - http://harizanov.com/
